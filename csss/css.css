@@ -1,3 +1,6 @@
+.container{
+    flex-wrap: wrap;
+}
 body, ol, li {
     margin: 0px;
     padding: 0;
