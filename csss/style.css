@@ -11,6 +11,7 @@ body, ol, li, a {
 #navbar {
     background: color white;
     flex: content;
+    border-: solid;
 }
 #nabar ul li{
     display: inline;
