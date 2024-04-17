@@ -1,0 +1,24 @@
+body, ol, li, a {
+    margin: 0px;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: lower-latin;
+    background-color: aqua;
+
+
+}
+#navbar {
+    background: color white;
+    flex: content;
+}
+#nabar ul li{
+    display: inline;
+    margin-right: 30px;
+
+}
+p {
+    padding: 60px;
+    margin-bottom: 20px;
+    
+}
